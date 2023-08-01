@@ -19,9 +19,6 @@ Armouries = { -- Mission row pd
         ace = 'MPSERPT',
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X26 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_radargun`] = {label = ' Radar Gun', item = "WEAPON_radargun"},
         }
       },
       ['Police Community Support'] = {
@@ -36,32 +33,12 @@ Armouries = { -- Mission row pd
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
           [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
         }
       },
       ['CTSFO'] = {
         ace = 'CTSFO',
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
       },
     }
   }
@@ -78,8 +55,6 @@ Armouries = { -- Mission row pd
         ace = 'MPSERPT',
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"}
         }
       },
       ['Police Community Support'] = {
@@ -94,14 +69,6 @@ Armouries = { -- Mission row pd
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
           [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
         }
       },
       ['CTSFO'] = {
@@ -109,285 +76,9 @@ Armouries = { -- Mission row pd
         weapons = {
           [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
           [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
       },
     }
   }
-},
-  { -- la mersa
-    coords = vec(841.34, -1291.72, 27.24),
-    MarkerId = 1,
-    MarkerSize = vec(1.0, 1.0, 1.5),
-    Color = vec(0.0, 0.0, 255.0),
-    ace = 'PCSO',
-    weapons = {
-      ['Police Constable'] = {
-        ace = 'MPSERPT',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"}
-        }
-      },
-      ['Police Community Support'] = {
-        ace = 'PCSO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-        }
-      },
-      ['TACTICAL FIREARMS UNIT'] = {
-        ace = 'MPSTFU',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-        }
-      },
-      ['CTSFO'] = {
-        ace = 'CTSFO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-      },
-    }
-  }
-},
-  { -- Vesupci
-    coords = vec(-1076.26, -817.39, 14.64),
-    MarkerId = 1,
-    MarkerSize = vec(1.0, 1.0, 1.5),
-    Color = vec(0.0, 0.0, 255.0),
-    ace = 'PCSO',
-    weapons = {
-      ['Police Constable'] = {
-        ace = 'MPSERPT',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-        }
-      },
-      ['Police Community Support'] = {
-        ace = 'PCSO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-        }
-      },
-      ['TACTICAL FIREARMS UNIT'] = {
-        ace = 'MPSTFU',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-        }
-      },
-      ['CTSFO'] = {
-        ace = 'CTSFO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-      },
-    }
-  }
-},
-  { -- sandy
-    coords = vec(1836.44, 3686.77, 33.19),
-    MarkerId = 1,
-    MarkerSize = vec(1.0, 1.0, 1.5),
-    Color = vec(0.0, 0.0, 255.0),
-    ace = 'PCSO',
-    weapons = {
-      ['Police Constable'] = {
-        ace = 'MPSERPT',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-        }
-      },
-      ['Police Community Support'] = {
-        ace = 'PCSO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-        }
-      },
-      ['TACTICAL FIREARMS UNIT'] = {
-        ace = 'MPSTFU',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-        }
-      },
-      ['CTSFO'] = {
-        ace = 'CTSFO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-      },
-    }
-  }
-},
-  { -- pleto bay
-    coords = vec(-445.68, 6018.03, 36),
-    MarkerId = 1,
-    MarkerSize = vec(1.0, 1.0, 1.5),
-    Color = vec(0.0, 0.0, 255.0),
-    ace = 'PCSO',
-    weapons = {
-      ['Police Constable'] = {
-        ace = 'MPSERPT',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-        }
-      },
-      ['Police Community Support'] = {
-        ace = 'PCSO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-        }
-      },
-      ['TACTICAL FIREARMS UNIT'] = {
-        ace = 'MPSTFU',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-        }
-      },
-      ['CTSFO'] = {
-        ace = 'CTSFO',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-          [`weapon_smg`] = {label = 'H&K MP5', item = "WEAPON_SMG"},
-          [`weapon_heavysniper`] = {label = 'Sniper Rifle', item = "WEAPON_HEAVYSNIPER"} ,
-          [`weapon_pumpshotgun_mk2`] = {label = 'Shotgun', item = "WEAPON_PUMPSHOTGUN_MK2"},
-          [`weapon_combatpistol`] = {label = 'Glock 17 Pistol', item = "WEAPON_COMBATPISTOL"},
-          [`weapon_pistol`] = {label = 'SIG Souer P226R', item = "WEAPON_PISTOL"},
-          [`weapon_specialcarbine`] = {label = 'SIG Souer 516', item = "WEAPON_SPECIALCARBINE"},
-          [`weapon_assaultrifle`] = {label = 'SIG Souer MCX', item = "WEAPON_ASSAULTRIFLE"},
-          [`weapon_smokegrenade`] = {label = 'Smoke Grenade', item = "WEAPON_SMOKEGRENADE"},
-          [`weapon_bzgas`] = {label = 'Gas Grenade', item = "WEAPON_BZGAS"},
-          [`weapon_l104a1`] = {label = 'Baton Launcher', item = "WEAPON_L104A1"},
-      },
-    }
-  }
-},
-  { -- army DLC
-    coords = vec(-2347.19, 3270.47, 31.81),
-    MarkerId = 1,
-    MarkerSize = vec(1.0, 1.0, 1.5),
-    Color = vec(0.0, 0.0, 255.0),
-    ace = 'PCSO',
-    weapons = {
-      ['Army Police Loadout'] = {
-        ace = 'ALL',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_heavyrifle`] = {label = 'L85A2 heavy Rifle', item = "WEAPON_HEAVYRIFLE"},
-          [`weapon_sawnoffshotgun`] = {label = 'Mossberg Shotgun', item = "WEAPON_SAWNOFFSHOTGUN"},
-          [`weapon_advancedrifle`] = {label = 'L119A2 C8 Carbine Rifle', item = "WEAPON_ADVANCEDRIFLE"},
-          [`weapon_heavypistol`] = {label = 'Hawk and Little $5 Pistol', item = "WEAPON_HEAVYPISTOL"},
-          [`weapon_pistol50`] = {label = 'Smith and wesson 1911 Pistol', item = "WEAPON_PISTOL50"},
-          [`weapon_militaryrifle`] = {label = 'M4 Sandstorm Rifle', item = "WEAPON_MILITARYRIFLE"},
-          [`weapon_stungun`] = {label = ' X2 Taser', item = "WEAPON_STUNGUN"},
-        },
-      },
-      ['Army Loadout'] = {
-        ace = 'ALL',
-        weapons = {
-          [`weapon_nightstick`] = {label = 'Baton', item = "WEAPON_NIGHTSTICK"},
-          [`weapon_flashlight`] = {label = 'Maglite Torch', item = "WEAPON_FLASHLIGHT"},
-          [`weapon_heavyrifle`] = {label = 'L85A2 heavy Rifle', item = "WEAPON_HEAVYRIFLE"},
-          [`weapon_sawnoffshotgun`] = {label = 'Mossberg Shotgun', item = "WEAPON_SAWNOFFSHOTGUN"},
-          [`weapon_advancedrifle`] = {label = 'L119A2 C8 Carbine Rifle', item = "WEAPON_ADVANCEDRIFLE"},
-          [`weapon_heavypistol`] = {label = 'Hawk and Little $5 Pistol', item = "WEAPON_HEAVYPISTOL"},
-          [`weapon_pistol50`] = {label = 'Smith and wesson 1911 Pistol', item = "WEAPON_PISTOL50"},
-          [`weapon_militaryrifle`] = {label = 'M4 Sandstorm Rifle', item = "WEAPON_MILITARYRIFLE"},
-        }
-      },
-    }
-  },
 }
 ammoToGive = 100
 
