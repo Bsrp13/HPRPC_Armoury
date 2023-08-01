@@ -1,4 +1,4 @@
-HPRPCMenu.CreateMenu("ArmouryMenu", "BSRP Armoury")
+HPRPCMenu.CreateMenu("ArmouryMenu", "Armoury")
 HPRPCMenu.SetSubTitle("ArmouryMenu", "Select a weapon")
 
 function requestAcesForList(list)
@@ -142,7 +142,7 @@ Citizen.CreateThread(function()
                 if #(v.coords - ourCoords) <= interactDistance then
                     sleep = 0
 DisplayNotification('~w~Press ~r~E~w~ to open the armoury and select your load out!', true) -- change the text here to whatever you want
-                    DrawText3Ds(v.coords, 'BSRP Armoury')
+                    DrawText3Ds(v.coords, 'Armoury')
 
                     if IsControlJustReleased(0, 38) then
                         openMenu(requestAcesForList(v.weapons))
